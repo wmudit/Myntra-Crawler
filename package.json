@@ -1,0 +1,26 @@
+{
+  "name": "myntra-crawler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wmudit/Myntra-Crawler.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wmudit/Myntra-Crawler/issues"
+  },
+  "homepage": "https://github.com/wmudit/Myntra-Crawler#readme",
+  "dependencies": {
+    "moment": "^2.24.0",
+    "puppeteer": "^2.0.0"
+  }
+}
