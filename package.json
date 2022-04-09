@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/wmudit/Myntra-Crawler#readme",
   "dependencies": {
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "puppeteer": "^2.0.0"
   }
 }
